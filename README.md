@@ -51,4 +51,4 @@ Tools like **Entra ID**, **Okta**, and **CyberArk** use them to protect systems 
 
 ---
 
-✅ **In short:** Access controls help keep systems safe by making sure the right people have the right access — and no more than that.
+**In short:** Access controls help keep systems safe by making sure the right people have the right access — and no more than that.
