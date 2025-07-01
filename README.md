@@ -11,7 +11,7 @@ They help protect data by making sure only the right people can:
 
 ## Why Access Controls Matter
 
-Without access controls, anyone could get into anything, leading to:
+Without access controls, anyone could get into anything. This could lead to:
 - Data leaks
 - Unauthorized changes
 - Security and compliance issues
