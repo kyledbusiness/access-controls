@@ -20,19 +20,19 @@ Without access controls, anyone could get into anything — leading to:
 
 ## Types of Access Controls
 
-- **Role-based access** – Access is based on your job (e.g. HR, IT, Finance).
-- **Attribute-based access** – Rules use things like location, time, or device.
-- **Discretionary access** – The owner decides who gets access.
-- **Mandatory access** – Strict rules set by the system (common in government or military).
+- **Role-based access:** Access is based on your job (e.g. HR, IT, Finance).
+- **Attribute-based access:** Rules use things like location, time, or device.
+- **Discretionary access:** The owner decides who gets access.
+- **Mandatory access:** Strict rules set by the system (common in government or military).
 
 ---
 
 ## Key Ideas to Know
 
-- **Authentication** – Proving who you are (like entering a password or using MFA)
-- **Authorization** – Deciding what you’re allowed to do
-- **Least privilege** – Only giving people the access they actually need
-- **Audit logs** – Keeping track of who accessed what, and when
+- **Authentication:** Proving who you are (like entering a password or using MFA)
+- **Authorization:** Deciding what you’re allowed to do
+- **Least privilege:** Only giving people the access they actually need
+- **Audit logs:** Keeping track of who accessed what, and when
 
 ---
 
@@ -51,4 +51,4 @@ Tools like **Entra ID**, **Okta**, and **CyberArk** use them to protect systems 
 
 ---
 
-**In short:** Access controls help keep systems safe by making sure the right people have the right access — and no more than that.
+**In short:** Access controls help keep systems safe by making sure the right people have the right access and no more than that.
